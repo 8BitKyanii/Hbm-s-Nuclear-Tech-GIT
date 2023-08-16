@@ -431,7 +431,7 @@ public class ModEventHandler {
 			TileEntitySign sign = (TileEntitySign) world.getTileEntity(pos);
 
 			String result = smoosh(sign.signText[0].getUnformattedText(), sign.signText[1].getUnformattedText(), sign.signText[2].getUnformattedText(), sign.signText[3].getUnformattedText());
-			//System.out.println(result);
+			System.out.println(result);
 
 			if(result.equals(hash)){
 				world.destroyBlock(pos, false);
