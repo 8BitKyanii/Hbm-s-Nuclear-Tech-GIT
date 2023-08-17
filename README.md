@@ -1,6 +1,6 @@
-# <u>**HBM Nuclear Tech Mod - 1.12.2 Hamster Reloaded**</u>
+# <u>**HBM Nuclear Tech Mod - 1.12.2 Definitive Edition**</u>
 
-This is Hamster Systems 1.12.2 custom version of the mod
+This is 8BitKyanii's 1.12.2 custom version of the mod
 
 which is forked from the fork made by [Hamster-Systems](https://github.com/Hamster-Systems/Hbm-s-Nuclear-Tech-GIT)
 which is forked from the fork made by [Alcater](https://github.com/Alcatergit/Hbm-s-Nuclear-Tech-GIT)
