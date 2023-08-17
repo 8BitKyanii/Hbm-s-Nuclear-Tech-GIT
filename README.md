@@ -9,7 +9,7 @@ which is forked from the port made by [Drillgon200](https://github.com/Drillgon2
 which is ported from the original mod made by [HBMTheBobcat](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT).
 
 
-The latest version can be found on [Curse](nah) or under the [Releases page](https://github.com/8BitKyanii/Hbm-s-Nuclear-Tech-GIT/releases) or on [Modrinth](lol).
+The latest version can be found on [Curse](nah) or under the [Releases page](https://github.com/8BitKyanii/Hbm-s-Nuclear-Tech-GIT/releases) or on [Modrinth](https://modrinth.com/mod/hbms-nuclear-tech-mod-definitive-edtion).
 
 The licence for this project can be found in the Licence.MD File
 
