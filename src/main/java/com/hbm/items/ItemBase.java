@@ -8,6 +8,7 @@ public class ItemBase extends Item {
 
 	//Drillgon200: Aw man, I really should have used a helper method instead of this. Too late now.
 	//Maybe if I update it to an even later version one day...
+	//TODO: convert to a helper method... or maybe not...
 	public ItemBase(String s){
 		this.setUnlocalizedName(s);
 		this.setRegistryName(s);
