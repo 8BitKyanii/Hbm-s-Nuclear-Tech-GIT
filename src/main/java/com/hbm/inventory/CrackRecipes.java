@@ -9,6 +9,7 @@ import net.minecraftforge.fluids.Fluid;
 import net.minecraftforge.fluids.FluidStack;
 
 //TODO: clean this shit up
+//TODO: FUCK YOU!
 @Spaghetti("everything")
 public class CrackRecipes {
 
