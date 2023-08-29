@@ -92,7 +92,7 @@ public class AssemblerRecipes {
 		generateList();
 	}
 
-	public static ItemStack getOutputFromTempate(ItemStack stack) {
+	/*public static ItemStack getOutputFromTempate(ItemStack stack) {
 
 		if(stack != null && stack.getItem() instanceof ItemAssemblyTemplate) {
 
@@ -123,7 +123,7 @@ public class AssemblerRecipes {
 		}
 
 		return null;
-	}
+	}*/
 
 	/**
 	 * Generates an ordered list of outputs, used by the template item to
